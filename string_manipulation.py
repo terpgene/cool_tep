@@ -11,3 +11,6 @@ def pirn():
 
 
 pirn()
+
+toop = ["Ghana", "Nigeria", "Algeria", "Chicago"]
+print(toop.count("Ghana"))
