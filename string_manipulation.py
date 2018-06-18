@@ -60,3 +60,5 @@ print(ivan[17:33])
 
 
 print("Test code")
+for x in range(10):
+        print("I'm a giant")
