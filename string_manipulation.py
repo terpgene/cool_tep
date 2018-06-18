@@ -17,3 +17,14 @@ print(toop.count("Ghana"))
 
 
 print("cat" + "in" + "hat")
+
+print("\nSawyer" * 3)
+
+print("we hold these truths...".upper())
+
+print("William {}".format("Faulkner"))
+
+auth = "William Faulkner"
+year_born = "1897"
+
+print("{} was born in {}.".format(auth, year_born))
