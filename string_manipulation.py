@@ -42,3 +42,18 @@ print("{} was born in {}.".format(auth, year_born))
 # print(r)
 
 print("Hello.Yes!".split("."))
+
+first_three = "abc"
+result = "+".join(first_three)
+
+fict = ["Tolstoy",
+        "Camus",
+        "Orwell",
+        "Huxley",
+        "Austin"]
+
+print(fict[0:3])
+
+ivan = """In place of death there was light."""
+print(ivan[0:17])
+print(ivan[17:33])
