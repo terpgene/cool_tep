@@ -7,7 +7,7 @@ qa = ["What is your name? ",
 n = 0
 while True:
     print("Type q to quit")
-    a = raw_input(qa[n])
+    a = input(qa[n])
     if a == "q".lower():
         break
     n = (n + 1) % 3
