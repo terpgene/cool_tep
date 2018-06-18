@@ -14,3 +14,6 @@ pirn()
 
 toop = ["Ghana", "Nigeria", "Algeria", "Chicago"]
 print(toop.count("Ghana"))
+
+
+print("cat" + "in" + "hat")
