@@ -29,16 +29,16 @@ year_born = "1897"
 
 print("{} was born in {}.".format(auth, year_born))
 
-n1 = raw_input("Enter a noun: ")
-v = raw_input("Enter a verb: ")
-adj = raw_input("Enter an adjective: ")
-n2 = raw_input("Enter a noun: ")
+# n1 = raw_input("Enter a noun: ")
+# v = raw_input("Enter a verb: ")
+# adj = raw_input("Enter an adjective: ")
+# n2 = raw_input("Enter a noun: ")
 
-r = """The {} {} the {} {} """.format(n1,
-v,
-adj,
-n2)
+# r = """The {} {} the {} {} """.format(n1,
+# v,
+# adj,
+# n2)
 
-print(r)
+# print(r)
 
 print("Hello.Yes!".split("."))
