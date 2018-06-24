@@ -1,6 +1,6 @@
 #this is a test of words
 
-word = input("What word do you want to reverse: ")
+word = raw_input("What word do you want to reverse: ")
 def word_submitted():
     """
     Function to accept words
