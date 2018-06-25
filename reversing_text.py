@@ -1,13 +1,11 @@
-#this is a test of words
-
-word = raw_input("What word do you want to reverse: ")
+WORD = input("What word do you want to reverse: ")
 def word_submitted():
     """
     Function to accept words
     param: word = str.
     """
     
-    reversed_words = word[::-1]
+    reversed_words = WORD[::-1]
     print(reversed_words)
 
 word_submitted()
