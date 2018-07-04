@@ -11,7 +11,7 @@ class Library:
 
     def displayAvailableBooks(self):
         print()
-        print("Available Book: ")
+        print("Available Books: ")
         for book in self.availableBooks:
             print(book)
             print ()
